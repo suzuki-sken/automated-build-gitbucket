@@ -1,0 +1,2 @@
+automated-build-gitbucket
+=========================

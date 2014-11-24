@@ -9,4 +9,4 @@ coreos$ sudo mkdir -p /opt/data/gitbucket
 coreos$ docker run -d -p 8080:8080 -v /opt/data/gitbucket:/gitbucket sken/gitbucket
 ```
 
-It tested in CoreOS　444.5.0. 
+It tested in [CoreOS　444.5.0](https://coreos.com/). 

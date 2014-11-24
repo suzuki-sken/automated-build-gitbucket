@@ -8,3 +8,7 @@ docker image for [gitbucket-2.6](https://github.com/takezoe/gitbucket) with java
 coreos$ sudo mkdir -p /opt/data/gitbucket
 coreos$ docker run -d -p 8080:8080 -v /opt/data/gitbucket:/gitbucket sken/gitbucket
 ```
+
+## Note
+
+testing by CoreOS 444.5.0.

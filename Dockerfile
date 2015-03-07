@@ -6,7 +6,7 @@ RUN yum -y update
 RUN yum -y install java-1.7.0-openjdk
 RUN yum clean all
 
-ADD https://github.com/takezoe/gitbucket/releases/download/2.8/gitbucket.war /opt/gitbucket/gitbucket.war
+ADD https://github.com/takezoe/gitbucket/releases/download/3.0/gitbucket.war /opt/gitbucket/gitbucket.war
 
 RUN ln -s /gitbucket /root/.gitbucket
 

@@ -1,6 +1,6 @@
 # docker-gitbucket
 
-docker image for [gitbucket-3.0](https://github.com/takezoe/gitbucket) with java-1.7.0-openjdk on centos.
+docker image for [gitbucket-3.1.1](https://github.com/takezoe/gitbucket) with java-1.7.0-openjdk on centos.
 
 ## Usage
 
